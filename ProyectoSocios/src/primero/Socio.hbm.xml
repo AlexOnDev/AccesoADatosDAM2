@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Generated 3 nov 2022 9:34:53 by Hibernate Tools 5.4.33.Final --><!DOCTYPE hibernate-mapping PUBLIC "-//Hibernate/Hibernate Mapping DTD 3.0//EN" "http://www.hibernate.org/dtd/hibernate-mapping-3.0.dtd">
+<hibernate-mapping>
+    <class catalog="baloncesto" name="primero.Socio" optimistic-lock="none" table="socio">
+        <id name="socioId" type="int">
+            <column name="socioID"/>
+            <generator class="assigned"/>
+        </id>
+        <property name="nombre" type="string">
+            <column length="40" name="nombre"/>
+        </property>
+        <property name="estatura" type="java.lang.Integer">
+            <column name="estatura"/>
+        </property>
+        <property name="edad" type="java.lang.Integer">
+            <column name="edad"/>
+        </property>
+        <property name="localidad" type="string">
+            <column length="30" name="localidad"/>
+        </property>
+    </class>
+</hibernate-mapping>

@@ -1,0 +1,133 @@
+------------------------------------------------------------------------------------------------------------------------
+
+[2022-12-14 10:27:22 #1 store] 
+Database 'C:\Users\damdualalu2\git\AccesoADatos\Sesion3Ejemplo\db\empleados.odb' is opened by 80@B01-PC14
+
+[2022-12-14 10:27:22 #2 store] 
+Configuration path: ?
+
+[2022-12-14 10:27:22 #3 type] 
+Type ejemplo1.DepartamentoEntity is not enhanced.
+
+[2022-12-14 10:27:22 #4 type] 
+Type ejemplo1.EmpleadoEntity is not enhanced.
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2022-12-14 10:51:35 #1 store] 
+Database 'C:\Users\damdualalu2\git\AccesoADatos\Sesion3Ejemplo\db\empleados.odb' is opened by 10660@B01-PC14
+
+[2022-12-14 10:51:35 #2 store] 
+Configuration path: ?
+
+[2022-12-14 10:51:35 #3 type] 
+Type ejemplo1.DepartamentoEntity is not enhanced.
+
+[2022-12-14 10:51:35 #4 type] 
+Type ejemplo1.EmpleadoEntity is not enhanced.
+
+[2022-12-14 10:51:35 #5 store] 
+Database 'C:\Users\damdualalu2\git\AccesoADatos\Sesion3Ejemplo\db\empleados.odb' is closed by 10660@B01-PC14
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2022-12-14 10:51:40 #1 store] 
+Database 'C:\Users\damdualalu2\git\AccesoADatos\Sesion3Ejemplo\db\empleados.odb' is opened by 3624@B01-PC14
+
+[2022-12-14 10:51:40 #2 store] 
+Configuration path: ?
+
+[2022-12-14 10:51:40 #3 type] 
+Type ejemplo1.DepartamentoEntity is not enhanced.
+
+[2022-12-14 10:51:40 #4 type] 
+Type ejemplo1.EmpleadoEntity is not enhanced.
+
+[2022-12-14 10:51:40 #5 store] 
+Database 'C:\Users\damdualalu2\git\AccesoADatos\Sesion3Ejemplo\db\empleados.odb' is closed by 3624@B01-PC14
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2022-12-14 10:51:46 #1 store] 
+Database 'C:\Users\damdualalu2\git\AccesoADatos\Sesion3Ejemplo\db\empleados.odb' is opened by 8632@B01-PC14
+
+[2022-12-14 10:51:46 #2 store] 
+Configuration path: ?
+
+[2022-12-14 10:51:46 #3 type] 
+Type ejemplo1.DepartamentoEntity is not enhanced.
+
+[2022-12-14 10:51:46 #4 type] 
+Type ejemplo1.EmpleadoEntity is not enhanced.
+
+[2022-12-14 10:51:46 #5 store] 
+Database 'C:\Users\damdualalu2\git\AccesoADatos\Sesion3Ejemplo\db\empleados.odb' is closed by 8632@B01-PC14
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2022-12-14 10:55:06 #1 store] 
+Database 'C:\Users\damdualalu2\git\AccesoADatos\Sesion3Ejemplo\db\empleados.odb' is opened by 8400@B01-PC14
+
+[2022-12-14 10:55:06 #2 store] 
+Configuration path: ?
+
+[2022-12-14 10:55:06 #3 type] 
+Type ejemplo1.DepartamentoEntity is not enhanced.
+
+[2022-12-14 10:55:06 #4 type] 
+Type ejemplo1.EmpleadoEntity is not enhanced.
+
+[2022-12-14 10:55:06 #5 store] 
+Database 'C:\Users\damdualalu2\git\AccesoADatos\Sesion3Ejemplo\db\empleados.odb' is closed by 8400@B01-PC14
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2022-12-14 10:55:10 #1 store] 
+Database 'C:\Users\damdualalu2\git\AccesoADatos\Sesion3Ejemplo\db\empleados.odb' is opened by 11040@B01-PC14
+
+[2022-12-14 10:55:10 #2 store] 
+Configuration path: ?
+
+[2022-12-14 10:55:10 #3 type] 
+Type ejemplo1.DepartamentoEntity is not enhanced.
+
+[2022-12-14 10:55:10 #4 type] 
+Type ejemplo1.EmpleadoEntity is not enhanced.
+
+[2022-12-14 10:55:10 #5 store] 
+Database 'C:\Users\damdualalu2\git\AccesoADatos\Sesion3Ejemplo\db\empleados.odb' is closed by 11040@B01-PC14
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2022-12-14 10:55:20 #1 store] 
+Database 'C:\Users\damdualalu2\git\AccesoADatos\Sesion3Ejemplo\db\empleados.odb' is opened by 12704@B01-PC14
+
+[2022-12-14 10:55:20 #2 store] 
+Configuration path: ?
+
+[2022-12-14 10:55:20 #3 type] 
+Type ejemplo1.DepartamentoEntity is not enhanced.
+
+[2022-12-14 10:55:20 #4 type] 
+Type ejemplo1.EmpleadoEntity is not enhanced.
+
+[2022-12-14 10:55:20 #5 store] 
+Database 'C:\Users\damdualalu2\git\AccesoADatos\Sesion3Ejemplo\db\empleados.odb' is closed by 12704@B01-PC14
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2022-12-14 10:55:24 #1 store] 
+Database 'C:\Users\damdualalu2\git\AccesoADatos\Sesion3Ejemplo\db\empleados.odb' is opened by 2076@B01-PC14
+
+[2022-12-14 10:55:24 #2 store] 
+Configuration path: ?
+
+[2022-12-14 10:55:24 #3 type] 
+Type ejemplo1.DepartamentoEntity is not enhanced.
+
+[2022-12-14 10:55:24 #4 type] 
+Type ejemplo1.EmpleadoEntity is not enhanced.
+
+[2022-12-14 10:55:24 #5 store] 
+Database 'C:\Users\damdualalu2\git\AccesoADatos\Sesion3Ejemplo\db\empleados.odb' is closed by 2076@B01-PC14
+

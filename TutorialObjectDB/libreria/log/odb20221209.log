@@ -1,0 +1,56 @@
+------------------------------------------------------------------------------------------------------------------------
+
+[2022-12-09 13:30:16 #1 store] 
+Database 'C:\Users\damdualalu2\eclipse-workspace\TutorialObjectDB\db\p2.odb' is opened by 2752@B01-PC14
+
+[2022-12-09 13:30:16 #2 store] 
+Configuration path: ?
+
+[2022-12-09 13:30:16 #3 type] 
+Type tutorial.Point is not enhanced.
+
+[2022-12-09 13:30:16 #4 store] 
+Database 'C:\Users\damdualalu2\eclipse-workspace\TutorialObjectDB\db\p2.odb' is closed by 2752@B01-PC14
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2022-12-09 13:47:57 #1 store] 
+Database 'C:\Users\damdualalu2\eclipse-workspace\TutorialObjectDB\db\p2.odb' is opened by 12184@B01-PC14
+
+[2022-12-09 13:47:57 #2 store] 
+Configuration path: ?
+
+[2022-12-09 13:47:57 #3 type] 
+Type tutorial.Point is not enhanced.
+
+[2022-12-09 13:47:57 #4 store] 
+Database 'C:\Users\damdualalu2\eclipse-workspace\TutorialObjectDB\db\p2.odb' is closed by 12184@B01-PC14
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2022-12-09 13:48:20 #1 store] 
+Database 'C:\Users\damdualalu2\eclipse-workspace\TutorialObjectDB\db\p2.odb' is opened by 5280@B01-PC14
+
+[2022-12-09 13:48:20 #2 store] 
+Configuration path: ?
+
+[2022-12-09 13:48:20 #3 type] 
+Type tutorial.Point is not enhanced.
+
+[2022-12-09 13:48:20 #4 store] 
+Database 'C:\Users\damdualalu2\eclipse-workspace\TutorialObjectDB\db\p2.odb' is closed by 5280@B01-PC14
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2022-12-09 13:52:50 #1 store] 
+Database 'C:\Users\damdualalu2\eclipse-workspace\TutorialObjectDB\db\p2.odb' is opened by 6500@B01-PC14
+
+[2022-12-09 13:52:50 #2 store] 
+Configuration path: ?
+
+[2022-12-09 13:52:50 #3 type] 
+Type tutorial.Point is not enhanced.
+
+[2022-12-09 13:52:50 #4 store] 
+Database 'C:\Users\damdualalu2\eclipse-workspace\TutorialObjectDB\db\p2.odb' is closed by 6500@B01-PC14
+
